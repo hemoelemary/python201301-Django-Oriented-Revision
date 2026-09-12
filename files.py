@@ -25,4 +25,24 @@ with open('file.txt','a') as f:
 with open('file.txt','r') as f:
     print(f.read())
 
+
+#-------------read_mult_lines---------
+with open('emails.txt','r') as emails:
+    emails=emails.readlines()
+for email in emails:
+    if 'hotmail' in email:
+        print(email.rstrip())    
+    
+
+
+
+with open('emails.txt','r') as file:
+    emails2 = file.readlines()
+for email in emails2:
+    # print(email)
+    if 'hotline' in email:
+        print(email)
+
+
 # 'r' read 'w' write 'a' append
+
