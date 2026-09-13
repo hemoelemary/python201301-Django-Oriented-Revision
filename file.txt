@@ -1,1 +1,4 @@
-hello i am texthellohellohellohellohellohello
+amount decreased to 1000 from 2000 decreased by 1000amount decreased to 1000 from 2000 decreased by 1000amount increased to 3000 from 1000 increased by 2000amount decreased to 1000 from 2000 decreased by 1000
+amount decreased to 2000 from 2000 decreased by 2000
+amount decreased to 0 from 2000 decreased by 2000
+amount decreased to 0 from 0 decreased by 2000
